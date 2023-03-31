@@ -1,3 +1,3 @@
 # Ecoleta
 
-App desenvolvido no curso da Rocketseat na semana NLW. Esta dividido em 3 Partes (server, backend, frontend e mobile), utilizando NodeJS, React e React Native.
+App desenvolvido e dividido em 3 Partes (server, backend, frontend e mobile), utilizando NodeJS, React e React Native.
